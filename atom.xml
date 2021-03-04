@@ -6,7 +6,7 @@
   <link href="http://mark4ever.github.io/atom.xml" rel="self"/>
   
   <link href="http://mark4ever.github.io/"/>
-  <updated>2021-03-04T16:44:14.115Z</updated>
+  <updated>2021-03-04T17:11:29.805Z</updated>
   <id>http://mark4ever.github.io/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>:2021-:03-:05-:hello.md</title>
+    <link href="http://mark4ever.github.io/2021/03/05/2021-03-05-hello-md-1/"/>
+    <id>http://mark4ever.github.io/2021/03/05/2021-03-05-hello-md-1/</id>
+    <published>2021-03-04T17:08:37.000Z</published>
+    <updated>2021-03-04T17:11:29.805Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h4><p>这是我的新博客！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h4&gt;&lt;p&gt;这是我的新博客！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>:2021-:03-:05:hello.md</title>
+    <link href="http://mark4ever.github.io/2021/03/05/2021-03-05-hello-md/"/>
+    <id>http://mark4ever.github.io/2021/03/05/2021-03-05-hello-md/</id>
+    <published>2021-03-04T17:08:13.000Z</published>
+    <updated>2021-03-04T17:08:13.242Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hello</title>
