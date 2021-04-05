@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Black Bear</title>
+  
+  
+  <link href="http://blackbear03.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://blackbear03.github.io/"/>
+  <updated>2021-04-05T16:36:33.714Z</updated>
+  <id>http://blackbear03.github.io/</id>
+  
+  <author>
+    <name>Mark</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blackbear03.github.io/2021/04/06/Hello-World/"/>
+    <id>http://blackbear03.github.io/2021/04/06/Hello-World/</id>
+    <published>2021-04-05T16:33:38.000Z</published>
+    <updated>2021-04-05T16:36:33.714Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hi,  这是我的新博客：）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hi,  这是我的新博客：）&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
