@@ -1492,8 +1492,7 @@ h6 {
   left: 0;
   width: 100%;
   height: 50px;
-  background: #fefefe;
-  box-shadow: 0px 2px 2px #cacaca;
+  background: #181818;
   text-align: center;
   transition: transform 300ms ease;
   z-index: 99; }
@@ -1507,7 +1506,7 @@ h6 {
       line-height: 50px;
       font-family: "Open Sans"; }
   .mobile-navbar .mobile-navbar-icon {
-    color: #c05b4d;
+    color: #ccc;
     height: 50px;
     width: 50px;
     font-size: 24px;
@@ -1557,7 +1556,7 @@ h6 {
       top: calc((100% - 1px) / 2);
       width: 20px;
       height: 1px;
-      background-color: #c05b4d; }
+      background-color: #ccc; }
       .mobile-navbar .mobile-navbar-icon span:nth-child(1) {
         transform: translateY(6px) rotate(0deg); }
       .mobile-navbar .mobile-navbar-icon span:nth-child(3) {
@@ -1588,16 +1587,14 @@ h6 {
       animation-name: outlast; }
 
 .mobile-menu {
-  background-color: rgba(248, 245, 236, 0.5); }
+  background-color: #181818; }
   .mobile-menu .mobile-menu-list {
     position: relative;
     list-style: none;
     margin-top: 50px;
-    padding: 0;
-    border-top: 1px solid #f8f5ec; }
+    padding: 0; }
     .mobile-menu .mobile-menu-list .mobile-menu-item {
-      padding: 10px 30px;
-      border-bottom: 1px solid #f8f5ec; }
+      padding: 10px 30px; }
     .mobile-menu .mobile-menu-list a {
       font-size: 18px;
       font-family: "Open Sans"; }
